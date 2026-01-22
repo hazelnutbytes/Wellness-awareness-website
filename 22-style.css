@@ -31,7 +31,7 @@ nav {
 	justify-content: center;
 	gap: 20px;
 	padding: 15px;
-	background: rgba(175, 124, 152, 0.3);
+	background: rgba(202, 169, 87, 0.3);
 }
 
 nav a {
@@ -57,7 +57,7 @@ main {
 }
 
 aside {
-	background: rgba(158, 26, 83, 0.5);
+	background: rgba(187, 148, 20, 0.5);
 	padding: 15px;
 	border-radius: 10px;
 }
